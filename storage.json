@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "tele_id": 1851975506,
+        "created_date": "2024-06-01T00:00:00",
+        "category": "Kosan",
+        "description": "Makan siang di Warteg",
+        "nominal": 15000.0,
+        "instrument": "Cash",
+        "note": null
+    },
+    {
+        "id": 2,
+        "tele_id": 1851975506,
+        "created_date": "2024-06-02T00:00:00",
+        "category": "Gaji",
+        "description": "Salary Bulan June",
+        "nominal": 4000000.0,
+        "instrument": "BCA",
+        "note": null
+    },
+    {
+        "id": 4,
+        "tele_id": 1851975506,
+        "created_date": "2026-05-18T17:39:25.346895",
+        "category": "Transportasi",
+        "description": "Bensin Pertalite",
+        "nominal": 20000.0,
+        "instrument": "Dana",
+        "note": null
+    },
+    {
+        "id": 5,
+        "tele_id": 1851975506,
+        "created_date": "2026-05-18T17:47:03.624956",
+        "category": "Makan",
+        "description": "Warteg Bahari",
+        "nominal": 15000.0,
+        "instrument": "Dana",
+        "note": null
+    }
+]
